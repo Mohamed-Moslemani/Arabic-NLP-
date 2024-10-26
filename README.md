@@ -113,10 +113,6 @@ Contributions are welcome! If you have suggestions or improvements, please follo
 
 Please ensure that your contributions adhere to the existing code style and include appropriate documentation.
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 📫 Contact
 
 If you have any questions or feedback, feel free to reach out:
